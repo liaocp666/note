@@ -9,5 +9,6 @@
     "zh-CN",
     "en-US"
   ],
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }
