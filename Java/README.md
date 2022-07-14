@@ -12,6 +12,18 @@ Java分为三个体系：
 -   JavaEE(J2EE)(Java 2 Platform,Enterprise Edition，java平台企业版)
 -   JavaME(J2ME)(Java 2 Platform Micro Edition，java平台微型版)。
 
+```ascii
+┌───────────────────────────┐
+│Java EE                    │
+│    ┌────────────────────┐ │
+│    │Java SE             │ │
+│    │    ┌─────────────┐ │ │
+│    │    │   Java ME   │ │ │
+│    │    └─────────────┘ │ │
+│    └────────────────────┘ │
+└───────────────────────────┘
+```
+
 简单来说，Java SE就是标准版，包含标准的JVM和标准库，而Java EE是企业版，它只是在Java SE的基础上加上了大量的API和库，以便方便开发Web应用、数据库、消息服务等，Java EE的应用使用的虚拟机和Java SE完全相同。
 
 Java ME就和Java SE不同，它是一个针对嵌入式设备的“瘦身版”，Java SE的标准库无法在Java ME上使用，Java ME的虚拟机也是“瘦身版”。
