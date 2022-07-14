@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "attachmentFolderPath": "./attachments"
+}
