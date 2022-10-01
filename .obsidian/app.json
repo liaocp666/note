@@ -1,10 +1,10 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": true,
-  "showLineNumber": true,
-  "spellcheck": true,
+  "showLineNumber": false,
+  "spellcheck": false,
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"
@@ -16,5 +16,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "foldHeading": true
 }
