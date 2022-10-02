@@ -17,5 +17,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "foldHeading": true
+  "foldHeading": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "fileSortOrder": "byCreatedTimeReverse"
 }
