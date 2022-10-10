@@ -20,5 +20,5 @@
   "foldHeading": true,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "alphabetical"
 }
