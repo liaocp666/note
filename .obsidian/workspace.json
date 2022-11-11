@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "34fca0101c0c479e",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a607f9e2d77e42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25151f00253d8bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/并发篇 - Sychronized 的偏向锁、轻量锁、重量级锁.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c346819aebf427e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Grub 多系统默认引导.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f717da3888e711d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4fdbad4aeb6906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e09d0146720445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "e32d29cb21147869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "686ba88a5991a6bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b57b04e2dd3e250c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c486559209a14d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Grub 多系统默认引导.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7b2d8d14400b55d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Grub 多系统默认引导.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c346819aebf427e",
+  "lastOpenFiles": [
+    "面试/并发篇 - Sychronized 的偏向锁、轻量锁、重量级锁.md",
+    "面试/并发篇 - CountDownLatch 和 Semaphore 的区别和底层原理.md",
+    "面试/并发篇 - ReentrantLock 的 tryLock 和 lock 方法区别.md",
+    "面试/并发篇 - ReentrantLock 中的公平锁和非公平锁的底层实现.md",
+    "面试/并发篇 - Volatile 关键字.md",
+    "面试/并发篇 - ThreadLocal 了解.md",
+    "面试/基础篇 - 接口和抽象类的区别.md",
+    "面试/基础篇 - ConcurrentHasMap 的扩容机制.md",
+    "面试/基础篇 - HashMap 的扩容机制.md",
+    "面试/基础篇 - CopyOnWriteArrayList 的底层原理.md"
+  ]
+}
